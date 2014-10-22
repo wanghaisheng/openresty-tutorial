@@ -24,6 +24,7 @@ notes through learning openresty
 
 [most of source code and related modules  you can find here](https://github.com/openresty)      
 
+[lapis a web framework for Lua and OpenResty written in MoonScript](https://github.com/leafo/lapis)       
 [moochine web framework](https://github.com/appwilldev/moochine-demo)          
 
 [moochine demo](https://github.com/appwilldev/moochine)       
