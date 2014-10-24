@@ -37,7 +37,8 @@ notes through learning openresty
 
 [金山卫士开源计划](https://github.com/ZoomQuiet/urisaok/tree/openresty)       
 
-[37signals-intermission helps you perform zero down time application maintenance](https://github.com/basecamp/intermission)
+[37signals-intermission helps you perform zero down time application maintenance](https://github.com/basecamp/intermission)        
+[ fhirbase-loinc: proxy all requests from nginx to the postgresql and just give it RESTful interface](https://github.com/fhirbase/fhirbase-loinc)          
 
 ### blogs    
 
